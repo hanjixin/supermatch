@@ -1,0 +1,29 @@
+.selected_roles {
+  width: 100%;
+  line-height: 20px;
+  padding: 10px;
+  border: 1px solid rgba(145, 213, 255, 1);
+  border-radius: 4px;
+  background-color: rgba(230, 247, 255, 1);
+  margin-bottom: 10px;
+}
+.selected_roles_icon {
+  font-size: 20px;
+}
+.selected_roles_info {
+  display: inline;
+  padding-left: 10px;
+  vertical-align: 5%;
+}
+.selected_count {
+  color: #1890ff;
+}
+.role_select {
+  margin: 30px;
+  width: 60%;
+}
+.selected_roles_list {
+  margin-left: 20px;
+  padding-left: 10px;
+  border-left: 1px solid #ccc;
+}

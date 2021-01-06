@@ -1,0 +1,17 @@
+.AutoComplete {
+  z-index: 100;
+}
+.completeBox {
+  padding-top: 10px;
+  border: 1px solid #ccc;
+  border-top: 0px;
+  background: #fff;
+}
+.completeItem {
+  padding-left: 10px;
+}
+.completeItem:hover {
+  background: rgb(131, 197, 241);
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+}
