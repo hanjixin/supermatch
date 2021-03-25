@@ -176,5 +176,10 @@
   "devDependencies": {
     "conventional-changelog-cli": "^2.0.34",
     "http-proxy-middleware": "^1.0.4"
+    
+  },
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
   }
 }
